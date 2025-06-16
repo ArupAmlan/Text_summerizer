@@ -16,3 +16,8 @@ A simple web app to summarize long texts using Hugging Face Transformers and Str
 - Streamlit
 
 
+## App
+
+- https://textsummarizer99.streamlit.app/
+
+
