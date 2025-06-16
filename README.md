@@ -8,7 +8,7 @@ A simple web app to summarize long texts using Hugging Face Transformers and Str
 - Clean and interactive UI
 
 ## 🚀 Demo
-![Screenshot](image.png)
+![Screenshot](image.png)![Screebshot-2](image-1.png)
 
 ## 📦 Tech Stack
 - Python
